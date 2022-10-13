@@ -1,17 +1,6 @@
-# quiz
+This is free code for a flutter quiz app. all you need is just set up firebase for this project.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Quiz
+Home	Question	Overview
+Screenshot-2022-02-17-14-18-04-879-com-example-quizzledemo	Screenshot-2022-02-17-14-18-30-410-com-example-quizzledemo	Screenshot-2022-02-17-14-18-57-932-com-example-quizzledemo
+Answer review	Notification	Leaderboard
+Screenshot-2022-02-17-14-19-08-715-com-example-quizzledemo	Screenshot-2022-02-17-14-19-35-955-com-example-quizzledemo	Screenshot-2022-02-17-14-19-45-025-com-example-quizzledemo
